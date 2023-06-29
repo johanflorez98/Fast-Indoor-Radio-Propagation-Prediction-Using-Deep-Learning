@@ -12,17 +12,19 @@ Es por lo anterior, que la presente investigación, aporta una [base datos](http
 
 ### Modelos obtenidos
 
-Para evaluar los [modelos obtenidos](https://drive.google.com/drive/folders/1n9ueD2F4knkeq1Iy1Bo9x6QO6vv7opZf?usp=sharing) se pueden utilizar los generados luego del proceso de entrenamiento y probar de acuerdo al dataset de prueba dispuesto o con otras imagenes nuevas. 
+Para evaluar los [modelos obtenidos](https://drive.google.com/drive/folders/1n9ueD2F4knkeq1Iy1Bo9x6QO6vv7opZf?usp=sharing) se puede utilizar del dataset los planos 61 to 80 con 50 disrtribuciones disponibles para cada uno como conunto de prueba dispuesto u otras imagenes nuevas. 
 
 ### RME Prediction
 
 Se muestra acontinuación una matriz de imagenes del conjunto de prueba y sus respectivos RME generados a partir de los modelos para cada una de las configuraciones de WLAN establecidas:
 
-
+![RME predictions](Files/RME_Evaluations_page-0001.jpg)
 
 ### CME Prediction
 
 Se muestra acontinuación una matriz de imagenes del conjunto de prueba y sus respectivos CME generados a partir de los modelos para cada una de las configuraciones de WLAN establecidas:
+
+![RME predictions](Files/CME_Evaluations_page-0001.jpg)
 
 
 
