@@ -28,4 +28,15 @@ The following image matrix shows the test set images and their respective CME pr
 
 ## Cite as
 
-Andres J. Florez-Gonzalez., & Carlos A. Viteri-Mera. (2023). Fast Indoor Radio Propagation Prediction Using Deep-Learning App (V1.0). Zenodo. https://doi.org/10.5281/zenodo.8092850
+@online{andres_j_florez_gonzalez_2023_8092850,
+  author       = {Andres J. Florez-Gonzalez and
+                  Carlos A. Viteri -Mera},
+  title        = {{Fast Indoor Radio Propagation Prediction Using 
+                   Deep-Learning App}},
+  month        = jun,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {V1.0},
+  doi          = {10.5281/zenodo.8092850},
+  url          = {https://doi.org/10.5281/zenodo.8092850}
+}
