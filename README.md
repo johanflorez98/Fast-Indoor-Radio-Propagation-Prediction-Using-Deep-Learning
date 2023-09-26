@@ -27,7 +27,7 @@ The following image matrix shows the test set images and their respective CME pr
 ![CME predictions](Files/CME_Evaluations_page-0001.jpg)
 
 ## Cite as
-´´´
+```
 @online{andres_j_florez_gonzalez_2023_8092850,
   author       = {Andres J. Florez-Gonzalez and
                   Carlos A. Viteri -Mera},
@@ -40,4 +40,4 @@ The following image matrix shows the test set images and their respective CME pr
   doi          = {10.5281/zenodo.8092850},
   url          = {https://doi.org/10.5281/zenodo.8092850}
 }
-´´´
+```
