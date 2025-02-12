@@ -28,16 +28,15 @@ The following image matrix shows the test set images and their respective CME pr
 
 ## Cite as
 ```
-  @online{andres_j_florez_gonzalez_2023_8092850,
-    author       = {Andres J. Florez-Gonzalez and
-                    Carlos A. Viteri -Mera},
-    title        = {{Fast Indoor Radio Propagation Prediction Using 
-                     Deep-Learning App}},
-    month        = jun,
-    year         = 2023,
-    publisher    = {Zenodo},
-    version      = {V1.0},
-    doi          = {10.5281/zenodo.8092850},
-    url          = {https://doi.org/10.5281/zenodo.8092850}
-  }
+@INPROCEEDINGS{10500989,
+  author={Flórez-González, Andrés J. and Viteri-Mera, Carlos A. and Achicanoy-Martínez, Wilson O.},
+  booktitle={2024 18th European Conference on Antennas and Propagation (EuCAP)}, 
+  title={Fast Indoor Radio Propagation Prediction using Deep Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Deep learning;Indoor radio communication;Microprocessors;Wireless networks;Training data;Computer architecture;Software;Propagation;U-Net;radio map estimation;cell association estimation;WLAN},
+  doi={10.23919/EuCAP60739.2024.10500989}
+}
 ```
